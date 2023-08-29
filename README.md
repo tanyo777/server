@@ -1,4 +1,4 @@
-# Monitoring Tool (node-client)
+# Monitoring Tool (server)
 
 ! Populate the .env file
 
